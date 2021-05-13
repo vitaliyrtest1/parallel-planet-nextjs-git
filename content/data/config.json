@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://parallel-planet-nextjs-git-cf3a1.netlify.app"
 }
