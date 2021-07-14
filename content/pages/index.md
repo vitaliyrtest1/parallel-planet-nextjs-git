@@ -90,6 +90,10 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/about.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
