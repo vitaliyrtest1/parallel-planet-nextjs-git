@@ -7,10 +7,10 @@ sections:
     title: >-
       This is an Award Winning Agency Based in San Francisco and Focusing on
       Digital, Identity, and Print Design.
-    content: >-
+    content: >
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+      talk](/contact/).![](images/about.jpg)
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
