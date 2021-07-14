@@ -92,7 +92,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/logo-1.svg
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
