@@ -43,6 +43,8 @@ sections:
     grid_items:
       - title: Business design
         image: images/service-1.svg
+        content: |
+          123
       - title: Brand design
         image: images/service-2.svg
         content: |-
